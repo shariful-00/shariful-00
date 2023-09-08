@@ -20,7 +20,7 @@
  </div>
  
 <div align="center"> 
-  <a href="shariful.sqa@gmail.com">
+  <a href="[shariful.sqa@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/sharifulhoque01/" target="_blank">
